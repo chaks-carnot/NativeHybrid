@@ -14,6 +14,6 @@
  
  Now you should be able to see the android folder in the project. Open the android folder in Android Studio (import the project and let the Android Studio build it). The project should now look something like this,
  
- ![Image](../blob/screenshots/Screen%20Shot%202016-10-19%20at%209.20.11%20AM.png?raw=true)
+ ![Image](../master/screenshots/Screen%20Shot%202016-10-19%20at%209.20.11%20AM.png?raw=true)
  
  
