@@ -3,10 +3,10 @@
  
  Make a sample ionic app using the following commands
  
-  '''shell
+  ```shell
   mkdir ionic_project
   cd ionic_porject
   ionic start sampleapp
   cd sampleapp
   ionic add platform android
-  '''
+  ```
