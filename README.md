@@ -11,6 +11,17 @@
   ionic add platform android
   cd platform/android
   ```
+  
+  For phonegap run the following commands
+  
+  ```shell
+  mkdir phonegap_project
+  cd phonegap_project
+  phonegap create sampleapp
+  cd sampleapp
+  phonegap platform add android
+  cd platform/android
+  ```
  
  Now you should be able to see the android folder in the project. Open the android folder in Android Studio (import the project and let the Android Studio build it). The project should now look something like this,
  
